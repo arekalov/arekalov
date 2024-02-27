@@ -7,7 +7,7 @@ Android developer
 * 🌍 Based in Saint-Petersurg, Russia
 * 🎓 SE ITMO University student
 * ❤️ Love coding
-
+***
 ## Skills
 
 <div>
@@ -22,22 +22,24 @@ Android developer
 </div>
 
 > You can see my cv [here](https://drive.google.com/file/d/1pobSw5mQTRMkVQVnctBNOYDlsbCQHP3v/view?usp=sharing)
-
+***
 ## Socials
 <div>
-    <a href="https://t.me/arekalov" target="_blank">
+    <a href="https://t.me/arekalov" style="text-decoration: none" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40"/>
     </a>&nbsp
-    <a href="https://vk.com/arekalov" target="_blank">
+    <a href="https://vk.com/arekalov" style="text-decoration: none" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40"/>
     </a>&nbsp
-    <a href="https://github.com/arekalov" target="_blank">
-      <img src="https://www.svgrepo.com/show/450156/github.svg" width="40" height="40"/>
+    <a href="https://github.com/arekalov" style="text-decoration: none" target="_blank">
+      <img src="https://www.svgrepo.com/show/450156/github.svg" width="40" height="40" alt=""/>
     </a>&nbsp
-    <a href="mailto:artyom.rekalov@gmail.com" >
-      <img src="https://www.svgrepo.com/show/295315/at-sign-at.svg" width="40" height="40"/>
+    <a href="mailto:artyom.rekalov@gmail.com" style="text-decoration: none" target="_blank">
+      <img src="https://www.svgrepo.com/show/295315/at-sign-at.svg" width="40" height="40" alt=""/>
     </a>&nbsp
   </div>
+
+***
 
 ## Badges
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arekalov&theme=github_dark)
@@ -45,3 +47,5 @@ Android developer
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arekalov&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arekalov&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arekalov&theme=github_dark)
+
+***
