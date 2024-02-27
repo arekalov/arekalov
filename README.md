@@ -7,7 +7,7 @@ Android developer
 * 🌍 Based in Saint-Petersurg, Russia
 * 🎓 SE ITMO University student
 * ❤️ Love coding
----
+
 ## Skills
 
 <div>
@@ -22,7 +22,7 @@ Android developer
 </div>
 
 > You can see my cv [here](https://drive.google.com/file/d/1pobSw5mQTRMkVQVnctBNOYDlsbCQHP3v/view?usp=sharing)
----
+
 ## Socials
 <div>
     <a href="https://t.me/arekalov" style="text-decoration: none" target="_blank">
@@ -39,13 +39,9 @@ Android developer
     </a>&nbsp
   </div>
 
----
-
 ## Badges
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arekalov&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arekalov&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arekalov&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arekalov&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arekalov&theme=github_dark)
-
----
