@@ -34,7 +34,7 @@ Android developer
     <a href="https://github.com/arekalov" target="_blank">
       <img src="https://www.svgrepo.com/show/450156/github.svg" width="40" height="40"/>
     </a>&nbsp
-    <a href="artyom.rekalov@gmail.com" >
+    <a href="mailto:artyom.rekalov@gmail.com" >
       <img src="https://www.svgrepo.com/show/295315/at-sign-at.svg" width="40" height="40"/>
     </a>&nbsp
   </div>
