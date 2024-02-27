@@ -1,1 +1,48 @@
-HI
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is arekalov
+================================================================================================================================
+
+Android developer
+-----------------
+
+* 🌍 Based in Saint-Petersurg, Russia
+* 🎓 SE ITMO University student
+* ❤️ Love coding
+
+## Skills
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" width="40" height="40"/>&nbsp
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="40" height="40"/>&nbsp
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/>&nbsp
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>&nbsp
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" width="40" height="40"/>&nbsp
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="40" height="40"/>&nbsp
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="40" height="40"/>&nbsp
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/>&nbsp
+</div>
+
+> Yu can see my cv [here](https://drive.google.com/file/d/1pobSw5mQTRMkVQVnctBNOYDlsbCQHP3v/view?usp=sharing)
+
+## Socials
+
+<div>
+    <a href="https://t.me/arekalov" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
+    </a>
+    <a href="https://vk.com/arekalov" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
+    </a>
+    <a href="https://github.com/arekalov" target="_blank">
+      <img src="https://www.svgrepo.com/show/450156/github.svg" width="40" height="40" alt="Zen Badge"/>
+    </a>
+    <a href="mailto:artyom.rekalov@gmail.com" target="_blank">
+      <img src="https://www.svgrepo.com/show/295315/at-sign-at.svg" width="40" height="40" alt="Zen Badge"/>
+    </a>
+  </div>
+
+## Badges
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arekalov&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arekalov&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arekalov&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arekalov&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arekalov&theme=github_dark)
