@@ -21,23 +21,22 @@ Android developer
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/>&nbsp
 </div>
 
-> Yu can see my cv [here](https://drive.google.com/file/d/1pobSw5mQTRMkVQVnctBNOYDlsbCQHP3v/view?usp=sharing)
+> You can see my cv [here](https://drive.google.com/file/d/1pobSw5mQTRMkVQVnctBNOYDlsbCQHP3v/view?usp=sharing)
 
 ## Socials
-
 <div>
     <a href="https://t.me/arekalov" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
-    </a>
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40"/>
+    </a>&nbsp
     <a href="https://vk.com/arekalov" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
-    </a>
+      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40"/>
+    </a>&nbsp
     <a href="https://github.com/arekalov" target="_blank">
-      <img src="https://www.svgrepo.com/show/450156/github.svg" width="40" height="40" alt="Zen Badge"/>
-    </a>
-    <a href="mailto:artyom.rekalov@gmail.com" target="_blank">
-      <img src="https://www.svgrepo.com/show/295315/at-sign-at.svg" width="40" height="40" alt="Zen Badge"/>
-    </a>
+      <img src="https://www.svgrepo.com/show/450156/github.svg" width="40" height="40"/>
+    </a>&nbsp
+    <a href="artyom.rekalov@gmail.com" >
+      <img src="https://www.svgrepo.com/show/295315/at-sign-at.svg" width="40" height="40"/>
+    </a>&nbsp
   </div>
 
 ## Badges
