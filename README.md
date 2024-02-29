@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Android developer
 -----------------
 
-* 🌍 Based in Saint-Petersurg, Russia
+* 🌍 Based in Saint-Petersburg, Russia
 * 🎓 SE ITMO University student
 * ❤️ Love coding
 
