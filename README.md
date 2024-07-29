@@ -21,7 +21,7 @@ Android developer
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/>&nbsp
 </div>
 
-> You can see my cv [here](https://drive.google.com/file/d/1IB-lV8PYLtd-MMNYRRMixPvJLRzd9Twv/view?usp=sharing)
+You can see my cv [here](https://drive.google.com/file/d/1Y_U1MLVyc7i0M0Lkgccb8Zcflkwp4KZg/view?usp=sharing)
 
 ## Socials
 <div>
